@@ -5,6 +5,9 @@
 ### Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielacabezaamor/)
 
+### Bootcamps:
+[<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/VJKWRC8N/)
+
 <div style="display: 'flex', justify-content:'space-around', align-items:'center'">
   <a href="https://github.com/gabicabeza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabicabeza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
