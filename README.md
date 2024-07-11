@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B1C99&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+//[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B1C99&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ### Hello World! Bem Vindo ao meu perfil!
 
