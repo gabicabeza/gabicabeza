@@ -11,6 +11,7 @@
 ### Formação:
 [<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/EHVS3YBT/)
 [<img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/DMWK9SI7/)
+[<img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" height="60" target="_blank"></a>](https://hermes.dio.me/certificates/OIEKAHWD).
 
 <div style="display: 'flex', justify-content:'space-around', align-items:'center'">
   <a href="https://github.com/gabicabeza">
