@@ -18,10 +18,8 @@ Busco aplicar e expandir minhas habilidades para criar soluções de dados efici
 
 ### 🛠️ Tecnologias e Ferramentas
 
-| Plataformas de Dados e Cloud | Linguagens |
+| Plataformas e Ferramentas | Linguagens |
 | :--- | :--- |
-| ![HPCC Systems](https://img.shields.io/badge/HPCC%20Systems-1A53A3?style=for-the-badge ) | ![ECL](https://img.shields.io/badge/ECL-5A79B7?style=for-the-badge ) |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white ) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ) |
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white ) | ![R](https.img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white ) |
-| | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white ) |
+| **Big Data:** ![HPCC Systems](https://img.shields.io/badge/HPCC%20Systems-1A53A3?style=for-the-badge ) | **Específica:** ![ECL](https://img.shields.io/badge/ECL-5A79B7?style=for-the-badge ) |
+| **Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white ), ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white ) | **Geral:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ), ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white ), ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white ) |
 
