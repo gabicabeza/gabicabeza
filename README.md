@@ -1,13 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B1C99&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+# Olá, eu sou a Gabriela Cabeza! 👋
 
-### Hello World! Bem Vindo ao meu perfil!
+### Desenvolvedora de Software com foco em Backend e Engenharia de Dados.
 
-### Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielacabezaamor/)
+Sou formada em **Análise e Desenvolvimento de Sistemas** e possuo experiência prática em desenvolvimento backend, automação de processos e processamento de dados em grande escala, adquirida durante minha atuação como Estagiária de TI na **Quod**.
 
+Minha principal experiência foi no ambiente **HPCC Systems**, utilizando a linguagem **ECL** para construir e otimizar pipelines de dados. 
+Participei ativamente de projetos na Squad de Recuperação de Crédito, onde minhas responsabilidades incluíam a ingestão, transformação e extração de dados, além da manutenção e otimização de fluxos críticos.
 
-<div style="display: 'flex', justify-content:'space-around', align-items:'center'">
-  <a href="https://github.com/gabicabeza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabicabeza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicabeza&layout=compact&langs_count=7&theme=dark"/>
-</div><br />
+Busco aplicar e expandir minhas habilidades para criar soluções de dados eficientes, confiáveis e automatizadas.
+
+### 🔭 Foco e Experiência
+
+*   🌱 **Atualmente aprendendo:** Aprofundando meus conhecimentos em **Python** e **R** para complementar minha experiência em processamento de dados.
+*   💡 **Principais Habilidades:** Desenvolvimento Backend, Automação de Processos e Processamento de Dados em Larga Escala.
+*   🚀 **Contribuições:** Participei de projetos de automação e melhorias que reduziram atividades manuais e aumentaram a confiabilidade e a eficiência operacional dos dados.
+*   📫 **Contato:** Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabrielacabezaamor/ ).
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Plataforma de Dados | Linguagens |
+| :--- | :--- |
+| ![HPCC Systems](https://img.shields.io/badge/HPCC%20Systems-1A53A3?style=for-the-badge ) | ![ECL](https://img.shields.io/badge/ECL-5A79B7?style=for-the-badge ) |
+| | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ) |
+| | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white ) |
+| | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white ) |
